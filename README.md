@@ -17,7 +17,7 @@
 
 <img src="https://miro.medium.com/max/1024/0*FfkEeNNoUKtzywCP.jpg">
 
-# Machine Learning for Stock Predictions
+# Machine Learning for Stock Market Price Predictions
 
 The stock price forecast is one of the most preferred topics and most interesting topics in the science industry. However, stock market price forecasts are challenging compared to other price forecasting case studies. Many scholars and industry experts have come to a greater consensus a decade. They have studied stocks in various fields such as Computer Science, Economics, Business Arithmetic, and Marketing price forecasts. The stock has been identified according to them as a random walking behavior at market prices. The sudden rises and falls have been the main reason behind stock market price forecasting being a big challenge. An efficient and accurate.
 
