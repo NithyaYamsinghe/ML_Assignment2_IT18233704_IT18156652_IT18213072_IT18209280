@@ -10,14 +10,12 @@
 
 [contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
 [contributors-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
 [forks-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/network/members
-[stars-shield]: https://img.shields.io/github/starsNithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
 [stars-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/stargazers
 [issues-shield]: https://img.shields.io/github/issues/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
 [issues-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/issues
-[license-shield]: https://img.shields.io/github/license/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
-[license-url]: LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <img src="https://miro.medium.com/max/1024/0*FfkEeNNoUKtzywCP.jpg">
 
