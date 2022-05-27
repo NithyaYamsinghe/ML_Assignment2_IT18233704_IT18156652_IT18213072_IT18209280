@@ -6,11 +6,11 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
+[contributors-shield]: https://img.shields.io/github/contributors/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
 [contributors-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
+[forks-shield]: https://img.shields.io/github/forks/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
 [forks-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/network/members
-[stars-shield]: https://img.shields.io/github/stars/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
+[stars-shield]: https://img.shields.io/github/stars/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
 [stars-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/stargazers
 [issues-shield]: https://img.shields.io/github/issues/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280.svg?style=for-the-badge
 [issues-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/issues
