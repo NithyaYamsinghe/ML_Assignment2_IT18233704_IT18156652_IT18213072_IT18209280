@@ -2,13 +2,11 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
 [contributors-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280
 [forks-url]: https://github.com/NithyaYamsinghe/ML_Assignment2_IT18233704_IT18156652_IT18213072_IT18209280/network/members
