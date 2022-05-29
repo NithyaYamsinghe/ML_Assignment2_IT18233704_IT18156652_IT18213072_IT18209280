@@ -33,14 +33,16 @@ We used TensorFlow, Keras as main framework for this and use normal python libra
 
 1. Import Libraries
 2. Load Dataset into the Data Frame
-3. Analyze the Data
-4. Prepare Dataset
-5. Create Model
-6. Instantiate Model
-7. Instantiate Loss
-8. Instantiate Optimizer
-9. Training the Model
-10. Prediction
+3. Dataset Cleaning 
+4. Dataset Preprocessing
+5. Analyze the Data
+6. Prepare Dataset
+7. Create Model
+8. Instantiate Model
+9. Instantiate Loss
+10. Instantiate Optimizer
+11. Training the Model
+12. Prediction
 
 ## List of Machine Learning Algorithms for Stock Market Price Prediction
 
